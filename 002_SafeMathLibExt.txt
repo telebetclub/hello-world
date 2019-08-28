@@ -1,0 +1,31 @@
+Token name: TeleBet Token
+
+Token ticker: TLBT
+
+Token decimals: 18
+
+Multisig wallet address: 0xB237a929f575E08960BFF337248C8E7D48aBFF3f
+
+*****************************
+
+Crowdsale rate: 219000000000
+
+Crowdsale start time: 2019-08-26T10:16 (GMT + 7)
+
+Crowdsale end time: 2019-08-26T14:00 (GMT + 7)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+SafeMathLib library name: SafeMathLibExt
+
+SafeMathLib library address: 0xaf3F390f6010E5fE1052c7FF09809215B35Ea760
+
+*****************************
+
+****SafeMathLib contract ABI:**** 
+
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"times","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"plus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"divides","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"minus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"}]
